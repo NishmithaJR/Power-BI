@@ -1,0 +1,1 @@
+[View Power BI interactive report "Customer segmentation"](https://app.powerbi.com/view?r=eyJrIjoiODFmM2FhOTQtYTk0Yi00NDJmLWI3NmYtNWFhZDA2NWExODRiIiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
