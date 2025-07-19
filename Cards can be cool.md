@@ -1,1 +1,1 @@
-[View Power BI report](https://app.powerbi.com/view?r=eyJrIjoiMTE5NGVkZmItOTJiZC00MDM4LWIyMDMtNGQ5MTI4Y2Y5MDc5IiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
+[View Power BI interactive report "Cards can be cool"](https://app.powerbi.com/view?r=eyJrIjoiMTE5NGVkZmItOTJiZC00MDM4LWIyMDMtNGQ5MTI4Y2Y5MDc5IiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
