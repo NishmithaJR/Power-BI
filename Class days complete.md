@@ -1,0 +1,1 @@
+[View Power BI interactive report "Class days complete"](https://app.powerbi.com/view?r=eyJrIjoiYzExMWQ3NWYtOGRiYS00NGE0LWExYWYtOTc4MTQ1OGZjNDdlIiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
