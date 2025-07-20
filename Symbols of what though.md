@@ -1,0 +1,1 @@
+[View Power BI interactive report "Symbols of what though"](https://app.powerbi.com/view?r=eyJrIjoiN2RmZDI3ZTUtMmRiYi00YjkyLWE4YjctOTJlNDE5NmI0MDkxIiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
