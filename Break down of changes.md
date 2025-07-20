@@ -1,0 +1,1 @@
+[View Power BI interactive report "Break down of changes"](https://app.powerbi.com/view?r=eyJrIjoiYmU5Mzg4MWQtNmE2OC00YTgxLWJlZTctMDM1MDkxMzY3NDVhIiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
