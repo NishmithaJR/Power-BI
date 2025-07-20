@@ -1,0 +1,1 @@
+[View Power BI interactive report "Breakdown of box office takings"](https://app.powerbi.com/view?r=eyJrIjoiMjZhNGNkNGItMmJhZS00NThmLWEyODEtMTk5MmM4YjBmNmUxIiwidCI6IjE5MWE0ZWQ4LThkNTktNDcxZS04N2E0LTAzYmIwNGJmNDA1MyJ9)
